@@ -1,0 +1,3 @@
+username = input("What is your name?")
+length = len(username)
+print("Ah!" + " " + "I" + " " + "see" + "," + " " + username + " " + "is" + " " + "a" + " " + "nice" + " " + "name." + " " + "It's " + "also " + str(length) + " " + "letters" + " " + "long!" )
